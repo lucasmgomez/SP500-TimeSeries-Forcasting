@@ -7,18 +7,11 @@ Simple Keras model to predict market direction using the weekly changes of the U
 This model is not intended to be used as an investment tool. 
 
 ### Installing
-install python 3.7
+install [python 3.7](https://www.python.org/downloads/)
 
 Download [model](model_v1.pkl) and [model_test](model_test.py)
 
-install pip\
-Windows: use [this](https://bootstrap.pypa.io/get-pip.py) and `python get-pip.py`\
-OSX: `sudo easy_install pip`
-
-install [numpy](https://numpy.org/) and [joblib](https://joblib.readthedocs.io/en/latest/)\
-`pip install numpy`\
-`pip install joblib`
-
+install [tensorflow 2.0](https://www.tensorflow.org/install), [scikit-learn](https://scikit-learn.org/stable/install.html), [numpy](https://numpy.org/), and [joblib](https://joblib.readthedocs.io/en/latest/)
 
 ## Running a prediction
 ```
