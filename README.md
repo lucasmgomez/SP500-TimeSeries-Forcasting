@@ -31,9 +31,6 @@ Please enter the weekly percentage change of  the Reserve Balance  (as of wednes
   -12.3456
 
 Please enter the weekly percentage change of  the 10-Year Treasury Rate  (as of wednesday)...
-  7.8910
-
-Please enter the weekly percentage change of  the 10-Year Treasury Rate  (as of wednesday)...
   11.1213
 
 Please enter the weekly percentage change of  the Treasury General Account Balance  (as of wednesday)...
