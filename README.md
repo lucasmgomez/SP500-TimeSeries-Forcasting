@@ -11,7 +11,7 @@ install [python 3.7](https://www.python.org/downloads/)
 
 Download [model](model_v1.pkl) and [model_test](model_test.py)
 
-install [tensorflow 2.0](https://www.tensorflow.org/install), [scikit-learn](https://scikit-learn.org/stable/install.html), [numpy](https://numpy.org/), and [joblib](https://joblib.readthedocs.io/en/latest/)
+install [Keras 2.3.1](https://keras.io/), [scikit-learn](https://scikit-learn.org/stable/install.html), [numpy](https://numpy.org/), and [joblib](https://joblib.readthedocs.io/en/latest/)
 
 ## Running a prediction
 ```
