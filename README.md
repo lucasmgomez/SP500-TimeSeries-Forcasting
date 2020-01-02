@@ -6,7 +6,7 @@ Simple Keras model to predict market direction using the weekly changes of the U
 
 This model is not intended to be used as an investment tool. 
 
-## Installing
+## Requirements 
 install [python 3.7](https://www.python.org/downloads/)
 
 Download [model](model_v1.pkl) and [model_test](model_test.py)
