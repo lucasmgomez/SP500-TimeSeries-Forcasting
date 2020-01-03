@@ -58,9 +58,12 @@ Model predicts S&P500 will have changed minimally in 2 weeks
 * [Numpy](https://numpy.org/) - Scientific Computing Package
 * [Sklearn (sci-kit)](https://scikit-learn.org/) - Data Analysis Tool
 
-## Training Data
+## Trained With
 
 * [FRED](https://fred.stlouisfed.org/) - Market Database 
+* [ReLu](https://keras.io/activations/) - Activation Function
+* [SoftMax](https://keras.io/activations/) - Activation Function
+* [Adam](https://keras.io/optimizers/) - Optimizer
 
 ## Authors
 
