@@ -14,7 +14,7 @@ Download [model](model_v1.pkl) and [model_test](model_test.py)
 
 install [Keras 2.3.1](https://keras.io/), [Tensorflow 2.0](https://www.tensorflow.org/),[scikit-learn](https://scikit-learn.org/stable/install.html), [numpy](https://numpy.org/), and [joblib](https://joblib.readthedocs.io/en/latest/)
 
-Tested for only Mac OS 10.15.1
+Tested only for Mac OS 10.15.1
 
 ## Running a prediction
 In Terminal:
