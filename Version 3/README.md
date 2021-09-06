@@ -11,7 +11,7 @@ Using PyTorch I created a LSTM model to predict 14 or 30 days ahead the SPY week
  'CPCE',
  'CPCE %Delta'
 
-All source code found in the SPYForcast.ipynb Google Collab
+All source code found in the SPYForcast.ipynb notebook
 
 ## Disclaimer
 
