@@ -3,7 +3,7 @@
 An attempt to use GRU's to predict the SP500 with time series data based on 10 market factors. The data for these factors can be found [here](https://fred.stlouisfed.org/graph/?g=vhrP)
 
 
-All source code found in the MarketModel2.ipynb Google Collab
+All source code found in the MarketModel2.ipynb 
 
 ## Disclaimer
 
